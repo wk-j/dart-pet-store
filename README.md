@@ -1,6 +1,6 @@
 ## Pet Store
 
-![G](https://github.com/wk-j/dart-pet-store/workflows/Dart%20CI/badge.svg)
+[![G](https://github.com/wk-j/dart-pet-store/workflows/Dart%20CI/badge.svg)](https://github.com/wk-j/dart-pet-store/actions)
 
 
 ```bash
