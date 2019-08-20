@@ -1,6 +1,8 @@
 ## Pet Store
 
 ```bash
+echo README.md  > .openapi-generator-ignore
+
 openapi-generator generate \
     -i https://petstore.swagger.io/v2/swagger.json \
     -g dart \
