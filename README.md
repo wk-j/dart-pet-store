@@ -1,5 +1,8 @@
 ## Pet Store
 
+![G](https://github.com/wk-j/dart-pet-store/workflows/Dart%20CI/badge.svg)
+
+
 ```bash
 echo README.md  > .openapi-generator-ignore
 
